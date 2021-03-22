@@ -1,0 +1,9 @@
+@media screen and (max-widht: 700px){
+    header .container{
+        display: flex;
+        flex-direction: column;
+    }
+    .botoes{
+        margin-top: 15px ;
+    }
+}
